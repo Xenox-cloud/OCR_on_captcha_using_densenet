@@ -231,7 +231,3 @@ Paper link: https://www.aimspress.com/article/10.3934/mbe.2019292
 - compare DenseNet with ResNet and CRNN-based OCR models
 - export the trained model for deployment via API or web app
 - add a results section with sample predictions and benchmark numbers
-
-## License
-
-Add your preferred license here.
